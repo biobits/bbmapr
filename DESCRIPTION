@@ -1,0 +1,14 @@
+Package: bbmapr
+Type: Package
+Title: Helpers for geospatial data analysis
+Version: 0.1.0
+Author: Stefan Bartels
+Maintainer: Stefan Bartels <email@biobits.eu>
+Description: Functions for Map-Plotting
+License: MIT
+LazyData: TRUE
+Imports:
+    ggplot2,
+    maptools,
+    rgdal
+RoxygenNote: 6.1.0
